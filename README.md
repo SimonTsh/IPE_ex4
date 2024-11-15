@@ -1,4 +1,4 @@
-# IPE_ex
+# IPE_ex4
 Repository of scripts used for multispectral classification of EO satellite data
 
 __Following packages are required to run:__
